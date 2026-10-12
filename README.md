@@ -125,7 +125,3 @@ AQI ≈ 152
 - [PurpleAir Data Calibrations](https://community.purpleair.com/t/purpleair-data-calibrations/103)
 - [US EPA AQI Breakpoints](https://aqs.epa.gov/aqsweb/documents/codetables/aqi_breakpoints.html)
 - [PurpleAir API](https://api.purpleair.com/)
-
-## License
-
-Add a license if you intend to distribute or allow others to reuse this project.
